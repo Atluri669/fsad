@@ -25,4 +25,7 @@
         <finalName>myapp</finalName>
     </build>
 
+         <build>
+    <finalName>myapp-1.0</finalName>
+</build>
 </project>
